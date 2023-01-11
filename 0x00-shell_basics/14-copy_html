@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r . /*.html
+cp -v *.html ../../holbertonschool-system_engineering-devops
