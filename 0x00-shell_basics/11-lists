@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /0x00-shell_basics /holbertonschool-system_engineering-devops /boot
+ls -lan /0x00-shell_basics /holbertonschool-system_engineering-devops /boot
