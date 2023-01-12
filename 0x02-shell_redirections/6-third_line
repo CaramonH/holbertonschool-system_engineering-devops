@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n3 | tail -n3
+head -n3 | tail +n3 /iacta
