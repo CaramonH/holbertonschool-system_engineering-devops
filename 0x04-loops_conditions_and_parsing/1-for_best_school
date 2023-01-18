@@ -1,7 +1,6 @@
 #!/bin/bash
 # Write script that displays "Best School" 10 times
-
-for (( start = 1; start <= 10; start++ ))
-do 
-echo "Best School"
+for (( i=0; i<10; i++ ))
+do
+   echo "Holberton School"
 done
