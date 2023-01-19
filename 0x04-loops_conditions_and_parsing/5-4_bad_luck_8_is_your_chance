@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-#
-#
-#
+# Print "Best School" 10 times
+# but for the 4th iteration, display bad luck and
+# for the 8th iteration display "good luck"
 
 i=1
 while [ $i -le 10 ]
