@@ -3,7 +3,7 @@
 # but for the 9th loop, display "Best School" and then "Hi"
 
 i=1
-while [ $1 -le 10 ]
+while [ $i -le 10 ]
 do
 	echo "Best School"
 	if [ "$i" -eq 9 ]
