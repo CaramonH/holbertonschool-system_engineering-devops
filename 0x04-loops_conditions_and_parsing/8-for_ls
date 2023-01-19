@@ -5,5 +5,5 @@
 
 for i in *
 do
-echo "$i" | cut -f -d '-'
+echo "$i" | cut -f {0..9} -d '-'
 done 
