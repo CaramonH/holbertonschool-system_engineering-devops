@@ -11,7 +11,7 @@ then
 	else
 		echo "$i file is empty"
 	fi
-	if [-f "$i" ]
+	if [ -f "$i" ]
 	then
 		echo "$i is a regular file"
 	fi
