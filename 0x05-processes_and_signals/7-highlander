@@ -4,7 +4,9 @@
 # I am invincible!!! when receiving a SIGTERM signal
 
 function no_ctrlc()
+{
     echo "I am invincible!!!"
+}
 
 
 trap no_ctrlc SIGTERM
